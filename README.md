@@ -1,2 +1,2 @@
 # PawnOnlyChess
-project console game in Kotlin, use class
+project console game in Kotlin using classes
